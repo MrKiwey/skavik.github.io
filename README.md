@@ -1,2 +1,3 @@
-"Min nettside -Sigve" 
-"\nHer kommer jeg til † lage min egen nettside, det er shempegoy." 
+Min nettside -Sigve
+
+Her kommer jeg til † lage min egen nettside, det er shempegoy.
